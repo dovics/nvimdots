@@ -19,6 +19,9 @@ ui["sainnhe/edge"] = {
 	lazy = true,
 	config = require("ui.edge"),
 }
+ui["ellisonleao/gruvbox.nvim"] = {
+    lazy = true,
+}
 ui["j-hui/fidget.nvim"] = {
 	lazy = true,
 	event = "BufReadPost",
